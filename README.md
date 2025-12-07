@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+### Goals
+
+- [ ] 🌎 Defeat my enemies
+- [ ] 🧠 Live until the heat death of our local galactic group through brain scanning and simulation
+- [ ] 🌌 Optimize resource sharing, collection, and usage across our local galactic group to keep humanity relevant as long as possible
+
+
+
 <!--
 **iDeepCar/iDeepCar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
